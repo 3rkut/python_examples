@@ -1,1 +1,1 @@
-Yeni başlıyanlar için python kod örnekleri
+Python code example for beginners
